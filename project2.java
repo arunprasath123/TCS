@@ -1,3 +1,11 @@
+/*
+input>>7
+output>>3 when n<=5 n becomes 10.
+input>>4
+output>>6
+*/
+
+
 package tcs;
 import java.util.*;
 public class project2 {
