@@ -1,3 +1,17 @@
+/*
+input >>{1,2,3,4,5}
+output>>1
+Explanation :
+1 = one >2 vowel
+2 = two>1 vowel
+3 = three>2 vowel
+4 = four>2 vowel
+5 = five > 2 vowel
+total = 9.
+number of pairs when added gives 9 >[4,5] = 1 pair
+	output>1
+*/
+
 package tcs;
 import java.util.*;
 public class project1 {
